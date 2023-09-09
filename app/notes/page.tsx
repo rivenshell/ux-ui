@@ -6,6 +6,7 @@ export default function notes() {
   return (
     <>
       <Nav />
+      <div className="text-center"> This is me.... somehow i guess</div>
     </>
   )
 }
